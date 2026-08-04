@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=15000000,RESOLUTION=3840x2160,QUALITY=uhd,FRAME-RATE=60,NAME="4K UHD"
-http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+http://line.hello-ott.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/96854.m3u8
